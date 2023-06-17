@@ -12,9 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cbb1487e875f2c4ab6afe12ec9dc65a, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: '1453=0
-
-    1915=1
+  question: '1915=1
 
     2409=2
 
